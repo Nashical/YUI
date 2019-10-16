@@ -18,6 +18,8 @@ import os
 
 from Voice import captureVoice
 
+
+
 def nameChange ():
     print("Yui: Okay, what would you like me to call you?")
     global name
