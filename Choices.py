@@ -6,6 +6,8 @@ import time as t
 
 from Voice import captureVoice
 
+
+
 def options(voice):
     
     if (voice == "hello yui"):
