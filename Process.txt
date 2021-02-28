@@ -1,0 +1,16 @@
+- Backend (Cardinal):
+	Runs on PC
+	Include Console UI
+	Handles all queries
+	Controls computer and PC UI
+
+- Frontend (YUI):
+	UI on PC and Mobile
+	Purely asthetics
+	Sends queries in strings to Cardinal (REST api)
+
+- ARGOS [Artificial Regional Generalized Optical System]:
+	Runs on mobile, part of frontend UI
+	Image/Video recognition
+	Information gather(er) for Cardinal
+	Sends to Cardinal
